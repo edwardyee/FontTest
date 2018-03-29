@@ -11,7 +11,7 @@
     <style name="FontSpan">
         <item name="android:textColor">@color/colorAccent</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:fontFamily">@font/gooddog</item>
+        <item name="android:fontFamily">@font/se_default</item>
     </style>
 
 </resources>
